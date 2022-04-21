@@ -2,6 +2,9 @@
 
 🔭 I’m currently working on ...
 
+![Background](https://user-images.githubusercontent.com/58915079/164404157-9fd8a14c-4ccd-4354-afe4-51207d112579.png)
+
+
 
 <!--
 **kokojamboo/kokojamboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
